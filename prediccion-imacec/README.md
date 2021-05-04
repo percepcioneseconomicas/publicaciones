@@ -1,1 +1,1 @@
-# Predicción IMACEC
+# Torneo de predicciones del IMACEC
