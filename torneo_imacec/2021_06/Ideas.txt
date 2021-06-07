@@ -1,0 +1,12 @@
+CONSUMIDORES:
+promedio de variables del presente, futuro, personal y nacional
+promedios de percepciones análogas (e.g. ipeco-sea + ipec-sea)
+promedios, mínimos y máximos móviles
+promedios por mes
+
+EMPRESARIOS:
+promedio simple de las percepciones
+promedio simple sin minería (o sin alguna industria)
+promedios de percepciones análogas (e.g. ice-comercio + imce-comercio)
+promedios, mínimos y máximos móviles
+promedios por mes
