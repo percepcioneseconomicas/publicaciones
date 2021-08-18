@@ -1,0 +1,1 @@
+# Indice de Sentimiento Corporativo
