@@ -14,3 +14,7 @@ Los textos provenientes de noticias se extrajeron de medios de comunicación chi
 - response. Corresponde a la codificación del sentimiento, donde 0=negativo, 1=positivo, y 2= neutral.
 - empresa. Corresponde a la empresa correspondiente a la memoria de donde se extrajo el texto (sólo aplicable a los casos en que el texto se extrajo de una memoria corporativa).
 - texto. Texto de la memoria corporativa o noticia económica.
+
+## Cómo citar
+
+Acuña, Guillermo (2021). Base de datos de sentimiento económico. Observatorio de Percepciones Económicas. Descargado de https://www.percepcioneseconomicas.cl
