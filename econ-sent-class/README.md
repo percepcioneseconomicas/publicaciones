@@ -16,6 +16,7 @@ Un **resumen en PDF**, más extenso y detallado, se puede encontrar en:
 
 https://github.com/percepcioneseconomicas/publicaciones/blob/main/isc/Indice%20de%20Sentimiento%20Corporativo-comprimido.pdf
 
+***
 
 Las notebooks también se pueden encontrar explicadas en mi canal de **YouTube** (pendiente): 
 
