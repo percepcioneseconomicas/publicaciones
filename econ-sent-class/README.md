@@ -1,0 +1,3 @@
+# Clasificar de Sentimiento Económico
+
+En este repositorio se muestra cómo desarrollar un **clasificador de sentimiento económico**, cuya ...
