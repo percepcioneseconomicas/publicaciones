@@ -2,19 +2,19 @@
 
 En este repositorio se muestra cómo desarrollar un **clasificador de sentimiento económico**, un algoritmo que clasifica textos con contenido económico según su polaridad: pesimista, neutral u optimista.
 
-Puede encontrar un resumen del trabajo en mi web:
+Puede encontrar un resumen del trabajo en mi **sitio web**:
 
 https://www.percepcioneseconomicas.cl/indices/indice-de-sentimiento-corporativo-parte-1/
 
 https://www.percepcioneseconomicas.cl/indices/indice-de-sentimiento-corporativo-parte-2/
 
 
-Un resumen en PDF, más extenso y detallado, se puede encontrar en:
+Un **resumen en PDF**, más extenso y detallado, se puede encontrar en:
 
 https://github.com/percepcioneseconomicas/publicaciones/blob/main/isc/Indice%20de%20Sentimiento%20Corporativo-comprimido.pdf
 
 
-Las notebooks también se pueden encontrar explicada en mi canal de YouTube: 
+Las notebooks también se pueden encontrar explicada en mi canal de **YouTube**: 
 
 https://www.youtube.com/channel/UCC35tdrH4dDRFhDEvPYl2bQ
 
