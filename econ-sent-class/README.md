@@ -35,3 +35,9 @@ El algoritmo se utilizó para identificar el sentimiento económico implícito e
 
 El desarrollo del clasificador se encuentra separado en una serie de notebooks que se describen a continuación:
 
+## Análisis exploratorio
+
+https://github.com/percepcioneseconomicas/publicaciones/blob/main/econ-sent-class/0_analisis_exploratorio.ipynb
+
+En esta sección se analiza descriptivamente la base de datos de **cartas a los accionistas**. Luego se prepara para su análisis posterior, dándole una estructura adecuada.
+
