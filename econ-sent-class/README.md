@@ -2,7 +2,7 @@
 
 En este repositorio se muestra cómo desarrollar un **clasificador de sentimiento económico**, un algoritmo que clasifica textos con contenido económico según su polaridad: pesimista, neutral u optimista.
 
-## Enlaces a resumenes y explicaciones
+## Enlaces a resumenes
 
 Puede encontrar un resumen del trabajo en mi **sitio web**:
 
