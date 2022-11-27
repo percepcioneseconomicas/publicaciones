@@ -41,3 +41,13 @@ https://github.com/percepcioneseconomicas/publicaciones/blob/main/econ-sent-clas
 
 En esta sección se analiza descriptivamente la base de datos de **cartas a los accionistas**. Luego se prepara para su análisis posterior, dándole una estructura adecuada.
 
+
+## Referencias
+
+Baker, S., Bloom, N & Davis, J. (2016). Measuring Economic Policy Uncertainty, The Quarterly Journal of Economics, Volume 131, Issue 4, November 2016, Pages 1593–1636, https://doi.org/10.1093/qje/qjw024
+
+Becerra, Juan Sebastián & Sagner, Andrés (2020). Twitter-Based Economic Policy Uncertainty Index for Chile. Working Papers N° 883 https://www.bcentral.cl/en/web/banco-central/content/-/detalle/documento-de-trabajo-n-883
+
+Cerda, Rodrigo; Silva, Álvaro & Valente, José Tomás (2018). Impact of economic uncertainty in a small open economy: the case of Chile, Applied Economics, Taylor & Francis Journals, vol. 50(26), pages 2894-2908, June. https://doi.org/10.1080/00036846.2017.1412076
+
+del Pilar Cruz, María; Peralta, Hugo & Ávila, Bruno (2020). Análisis de Sentimiento Basado en el Informe de Percepciones de Negocios del Banco Central de Chile, Working Papers Central Bank of Chile 862, Central Bank of Chile. https://www.bcentral.cl/en/web/banco-central/content/-/detalle/analisis-de-sentimiento-basado-en-el-informe-de-percepciones-de-negocios-del-banco-central-de-chile
