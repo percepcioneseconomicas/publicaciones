@@ -10,6 +10,7 @@ https://www.percepcioneseconomicas.cl/indices/indice-de-sentimiento-corporativo-
 
 https://www.percepcioneseconomicas.cl/indices/indice-de-sentimiento-corporativo-parte-2/
 
+***
 
 Un **resumen en PDF**, más extenso y detallado, se puede encontrar en:
 
