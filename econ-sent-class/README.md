@@ -1,4 +1,4 @@
-# Clasificar de Sentimiento Económico
+# Clasificador de Sentimiento Económico
 
 En este repositorio se muestra cómo desarrollar un **clasificador de sentimiento económico**, un algoritmo que clasifica textos con contenido económico según su polaridad: pesimista, neutral u optimista.
 
