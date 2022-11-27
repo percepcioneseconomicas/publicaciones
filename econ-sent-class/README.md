@@ -22,9 +22,6 @@ Las notebooks también se pueden encontrar explicadas en mi canal de **YouTube**
 
 https://www.youtube.com/channel/UCC35tdrH4dDRFhDEvPYl2bQ
 
----
-
-
 
 ## Introducción 
 
