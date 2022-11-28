@@ -18,7 +18,7 @@ https://github.com/percepcioneseconomicas/publicaciones/blob/main/isc/Indice%20d
 
 ***
 
-Las notebooks también se pueden encontrar explicadas en mi canal de **YouTube** (pendiente): 
+Las notebooks también se pueden encontrar explicadas en mi canal de **YouTube**: 
 
 https://youtube.com/playlist?list=PLQHBntu5_EeKbhBLbJzAJNNIyVuNVHdOt
 
@@ -55,12 +55,12 @@ https://github.com/percepcioneseconomicas/publicaciones/tree/main/sentiment_data
 ## Clasificación
 
 En esta sección se muestra cómo usar el modelo para **clasificar las cartas a los accionistas** según su sentimiento económico:
-https://github.com/percepcioneseconomicas/publicaciones/blob/main/econ-sent-class/2_clasificacion.ipynb (pendiente)
+https://github.com/percepcioneseconomicas/publicaciones/blob/main/econ-sent-class/2_clasificacion.ipynb 
 
 ## Indice de Sentimiento Corporativo
 
 En esta sección se construye el **índice de sentimiento corporativo** y se analiza descriptivamente.
-https://github.com/percepcioneseconomicas/publicaciones/blob/main/econ-sent-class/3_indice_sentimiento_corporativo.ipynb (pendiente)
+https://github.com/percepcioneseconomicas/publicaciones/blob/main/econ-sent-class/3_indice_sentimiento_corporativo.ipynb 
 
 
 ## Referencias
